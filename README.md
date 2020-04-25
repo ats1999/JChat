@@ -1,4 +1,4 @@
-# Group-Conversation
+# JChat
 This project is designed to provide a group conversation amongst multiple terminals. The users must take care of the port numbers and IP addresses.
 # src
 * GroupConversion.java is source file of this project.
